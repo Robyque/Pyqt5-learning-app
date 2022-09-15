@@ -1,1 +1,1 @@
-# Pyqt5-learning-app
+# A small app made in pytq5 for learning purposes 
