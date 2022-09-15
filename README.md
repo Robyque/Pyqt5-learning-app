@@ -1,1 +1,1 @@
-# A small app made in pytq5 for learning purposes 
+# A small app made in python with pytq5,pytube and pyqrcode for learning purposes 
